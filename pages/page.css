@@ -81,7 +81,7 @@
                     color: inherit;
                     background-color: transparent;
                     border: solid 1px transparent;
-                    border-radius: 50%;
+                    border-radius: 100%;
                     padding: 0.5rem 1rem;
                     color: #ffffff;
                     background-color: darkred;
@@ -97,4 +97,10 @@
                 footer {
                     margin: 3rem;
                     font-size: 1.2rem;
+                }
+                
+                ul li {
+                    background: #cce5ff;
+                    margin: 5px;
+                    vertical-align: left;
                 }
